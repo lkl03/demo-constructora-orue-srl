@@ -1,2 +1,7 @@
-# demo-constructora-orue-srl
-Demo web para Constructora Orue SRL — diseñada por eterlab.
+# Constructora Orue SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
